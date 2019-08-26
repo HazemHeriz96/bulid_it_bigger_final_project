@@ -1,0 +1,2 @@
+// To Expoerts All External Project and dependncess to Main Process Gradle
+include ':app', ':backend',  ':mylibrary', ':JokesSource'

@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="margin_h">16dp</dimen>
+    <dimen name="margin_v">16dp</dimen>
+</resources>
